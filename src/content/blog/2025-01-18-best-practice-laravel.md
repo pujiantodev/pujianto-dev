@@ -3,6 +3,7 @@ pubDatetime: 2025-01-18T15:35:21.078Z
 title: Best Practice Laravel
 slug: best-practice-laravel
 featured: true
+ogImage: ../../assets/images/laravel-best-practice.png
 draft: false
 tags:
   - laravel

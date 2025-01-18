@@ -6,7 +6,7 @@ export const SITE: Site = {
   profile: "https://pujianto.dev/about/",
   desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
   title: "Pujianto DEV",
-  ogImage: "astropaper-og.jpg",
+  ogImage: "pujianto-dev.png",
   lightAndDarkMode: true,
   postPerIndex: 4,
   postPerPage: 5,
