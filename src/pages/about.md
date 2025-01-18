@@ -3,34 +3,20 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
+# 💫 About Me:
 
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
+- 🔭 I’m currently working on [Toko Ladang](https://github.com/tokoladang)
+- 🌱 I’m currently learning **Laravel, Vue, React**
+- 👯 I’m looking to collaborate on [Ladang Group](https://github.com/ladanggroup)
+- 💬 Ask me about **Laravel**
+- 📫 How to reach me **ekoxyz15@gmail.com**
 
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
+### ✍️ Random Dev Quote
 
-<div>
-  <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
-</div>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## Tech Stack
+---
 
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
+[![](https://visitcount.itsvg.in/api?id=pujiantodev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## Features
-
-Here are certain features of this site.
-
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
-
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
