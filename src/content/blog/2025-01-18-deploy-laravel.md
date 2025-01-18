@@ -4,6 +4,7 @@ pubDatetime: 2025-01-18T09:37:42.681Z
 modDatetime: 2025-01-18T09:37:42.681Z
 title: Deploy Laravel
 slug: deploy-laravel
+ogImage: ../../assets/images/deploy-laravel.png
 featured: true
 draft: false
 tags:
@@ -12,6 +13,7 @@ tags:
 description: Panduan deploy Laravel di server VPS Linux. Pada panduan ini saya menggunakan Droplet di vendor Digital Ocean.
 ---
 
+![Deploy Laravel](../../assets/images/deploy-laravel.png)
 Panduan deploy Laravel di server VPS Linux. Pada panduan ini saya menggunakan Droplet di vendor Digital Ocean.
 
 ## Table of contents
