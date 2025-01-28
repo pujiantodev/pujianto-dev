@@ -14,7 +14,7 @@ description: optimalkan pencarian dengan laravel dengan withquerystring
 
 ![withQueryString](../../assets/images/withQueryString.png)
 
-# Optimalkan Pencarian dengan Laravel: Retensi Query Parameters Menggunakan `withQueryString()`
+## Optimalkan Pencarian dengan Laravel: Retensi Query Parameters Menggunakan `withQueryString()`
 
 ## Masalah
 
